@@ -1,7 +1,7 @@
 import { createStore } from 'redux';
 import { devToolsEnhancer } from '@redux-devtools/extension';
 
-//35min
+//40 min
 
 const initialState = {
   account: { balance: 0 },
